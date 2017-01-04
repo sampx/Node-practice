@@ -1,0 +1,11 @@
+{
+  "name": "sam-module",
+  "version": "1.0.0",
+  "description": "Sam's first node project",
+  "main" : "./lib/interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
